@@ -3,7 +3,7 @@
     class="bg-white dark:bg-gray-900 h-screen flex flex-col items-center justify-center"
   >
     <img
-      src="@/assets/images/maintenance.svg"
+      src="@/assets/images/maintenance.gif"
       alt="Maintenance Image"
       class="mb-8 max-w-full h-auto"
     />

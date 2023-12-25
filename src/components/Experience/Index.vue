@@ -19,7 +19,6 @@
                     {{ experience.totalWorkPeriod }}
                 </time>
                 <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad distinctio quibusdam repellendus, molestias sequi est modi facilis reprehenderit facere ipsum!
                 </p>
 
                 <ol class="relative border-s border-gray-200 dark:border-gray-700">
